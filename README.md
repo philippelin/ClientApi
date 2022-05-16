@@ -5,5 +5,3 @@ HOW-TO ---> doc.pdf
 
 Programmation distribuée
 
-
-s

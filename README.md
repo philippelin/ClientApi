@@ -1,7 +1,8 @@
 # ClientApi
 
-Backend ---> Service Client(CRUD).
+Backend ---> CrudClient(CRUD)
+
 HOW-TO ---> doc.pdf
 
-Programmation distribuée
+
 
